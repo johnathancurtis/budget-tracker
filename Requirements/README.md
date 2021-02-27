@@ -22,3 +22,6 @@
 •   The software shall display total expenses for each category and for all categories combined.<br/>
 4. The user should be able to log back in and view all data previously input.<br/>
 •    The system shall pull data based off of a user identification.<br/>
+
+
+![UML Diagram]( budget-tracker/uml.jpg at main · jonathanrhoads/budget-tracker (github.com) "UML Diagram")
