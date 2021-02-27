@@ -11,14 +11,14 @@
 5.	Given purchase inputs, when a user wants to see the overview of purchases, display different formats for the user to interact with.
 6.	Given purchase information, when the user wants to see them all in a order, display the list of purchases.
 ### Requirements List:
-1.  The system shall accept the users purchase information. 
-•   The software shall input that purchase information into the database to be retrieved later.
-•   The software shall populate a list of purchases.
-2. The user should be able to view the purchases in different formats like a pie chart, bar chart, and calendar.
-•   The software shall pull that data out and organize it on different variables such as price, category, and date.
-3. The user shall be able to input monthly expenses and income.
-•   The system shall calculate the difference between income and monthly expenses.
-•   The software shall send the monthly expenses to the database to be retrieved later.
-•   The software shall display total expenses for each category and for all categories combined.
-4. The user should be able to log back in and view all data previously input.
-•    The system shall pull data based off of a user identification.
+1.  The system shall accept the users purchase information. <br/>
+•   The software shall input that purchase information into the database to be retrieved later.<br/>
+•   The software shall populate a list of purchases.<br/>
+2. The user should be able to view the purchases in different formats like a pie chart, bar chart, and calendar.<br/>
+•   The software shall pull that data out and organize it on different variables such as price, category, and date.<br/>
+3. The user shall be able to input monthly expenses and income. <br/>
+•   The system shall calculate the difference between income and monthly expenses.<br/>
+•   The software shall send the monthly expenses to the database to be retrieved later.<br/>
+•   The software shall display total expenses for each category and for all categories combined.<br/>
+4. The user should be able to log back in and view all data previously input.<br/>
+•    The system shall pull data based off of a user identification.<br/>
