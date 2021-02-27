@@ -11,14 +11,14 @@
 5.	Given purchase inputs, when a user wants to see the overview of purchases, display different formats for the user to interact with.
 6.	Given purchase information, when the user wants to see them all in a order, display the list of purchases.
 ### Requirements List:
-1.  The system shall accept the users purchase information.
-1.1 The software shall input that purchase information into the database to be retrieved later.
-1.2 The software shall populate a list of purchases.
+1.  The system shall accept the users purchase information. 
+•   The software shall input that purchase information into the database to be retrieved later.
+•   The software shall populate a list of purchases.
 2. The user should be able to view the purchases in different formats like a pie chart, bar chart, and calendar.
-2.1 The software shall pull that data out and organize it on different variables such as price, category, and date.
+•   The software shall pull that data out and organize it on different variables such as price, category, and date.
 3. The user shall be able to input monthly expenses and income.
-	3.1 The system shall calculate the difference between income and monthly expenses.
-	3.2 The software shall send the monthly expenses to the database to be retrieved later.
-	3.3 The software shall display total expenses for each category and for all categories combined.
+•   The system shall calculate the difference between income and monthly expenses.
+•   The software shall send the monthly expenses to the database to be retrieved later.
+•   The software shall display total expenses for each category and for all categories combined.
 4. The user should be able to log back in and view all data previously input.
-	4.1 The system shall pull data based off of a user identification.
+•    The system shall pull data based off of a user identification.
