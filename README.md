@@ -55,7 +55,7 @@ The purpose of the app is to help individuals overview their spending to make be
 4.	Given monthly expenses, when the user has projected expenses that differ from actual expenses, display that difference for each category, subcategory, and total.
 5.	Given purchase inputs, when a user wants to see the overview of purchases, display different formats for the user to interact with.
 6.	Given purchase information, when the user wants to see them all in a order, display the list of purchases.
-7.	
+
 ## Requirements Table
 | Requirement ID | Requirement Description | Test Method | Test ID |
 |----------------|-------------------------|-------------|---------|
