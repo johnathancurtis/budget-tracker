@@ -12,7 +12,7 @@
 3. [Database Diagram](#database-diagram)
 4. [User Stories](#user-stories)
 5. [Use Cases](#use-cases)
-6. [Requirements List](#requirements-list)
+6. [Requirements List](#requirements-table)
 7. [UML Diagram](#uml-diagram)
 
 
@@ -56,18 +56,20 @@ The purpose of the app is to help individuals overview their spending to make be
 5.	Given purchase inputs, when a user wants to see the overview of purchases, display different formats for the user to interact with.
 6.	Given purchase information, when the user wants to see them all in a order, display the list of purchases.
 7.	
-## Requirements List
-1.  The system shall accept the users purchase information. <br/>
-•   The software shall input that purchase information into the database to be retrieved later.<br/>
-•   The software shall populate a list of purchases.<br/>
-2. The user should be able to view the purchases in different formats like a pie chart, bar chart, and calendar.<br/>
-•   The software shall pull that data out and organize it on different variables such as price, category, and date.<br/>
-3. The user shall be able to input monthly expenses and income. <br/>
-•   The system shall calculate the difference between income and monthly expenses.<br/>
-•   The software shall send the monthly expenses to the database to be retrieved later.<br/>
-•   The software shall display total expenses for each category and for all categories combined.<br/>
-4. The user should be able to log back in and view all data previously input.<br/>
-•    The system shall pull data based off of a user identification.<br/>
+## Requirements Table
+| Requirement ID | Requirement Description | Test Method | Test ID |
+|----------------|-------------------------|-------------|---------|
+| 1   		     | The system shall accept the users purchase information |  			 |	tbd	   |
+| 1.2  		     | The software shall input that purchase information into the database to be retrieved later |  			 |	tbd	   |
+| 1.3 		     | The software shall populate a list of purchases |  			 |	tbd	   |
+| 2   		     | The user should be able to view the purchases in different formats like a pie chart, bar chart, and calendar |  			 |	tbd	   |
+| 2.2  		     | The software shall pull that data out and organize it on different variables such as price, category, and date |  			 |	tbd	   |
+| 3   		     | The user shall be able to input monthly expenses and income |  			 |	tbd	   |
+| 3.1  		     | The system shall calculate the difference between income and monthly expenses |  			 |	tbd	   |
+| 3.2  		     | The software shall send the monthly expenses to the database to be retrieved later |  			 |	tbd	   |
+| 3.3  		     | The software shall display total expenses for each category and for all categories combined |  			 |	tbd	   |
+| 4   		     | The user should be able to log back in and view all data previously input |  			 |	tbd	   |
+| 4.1  		     | The system shall pull data based off of a user identification |  			 |	tbd	   |
 
 ## UML Diagram
-![UML Diagram](https://github.com/jonathanrhoads/budget-tracker/blob/main/Requirements/uml.jpg "UML Diagram")
+![UML Diagram](https://github.com/jonathanrhoads/budget-tracker/blob/main/images/uml.jpg "UML Diagram")
