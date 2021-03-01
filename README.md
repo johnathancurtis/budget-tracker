@@ -2,18 +2,18 @@
 
 ## Table of Contents:
 
-1. [Concept Description](##concept-description)
-2. [Wire Frames](##wireframes) <br/>
-• [Home Page](####home-page) <br/>
-• [Purchases Page](####purchases-page) <br/>
-• [Spending List Page](####spending-list-page) <br/>
-• [Spending Summary Page](####spending-summary-page) <br/>
-• [Budget Page](####budget-page) <br/>
-3. [Database Diagram](##database-diagram)
-4. [User Stories](##user-stories)
-5. [Use Cases](##use-cases)
-6. [Requirements List](##requirements-list)
-7. [UML Diagram](##uml-diagram)
+1. [Concept Description](#concept-description)
+2. [Wire Frames](#wireframes) <br/>
+• [Home Page](#home-page) <br/>
+• [Purchases Page](#purchases-page) <br/>
+• [Spending List Page](#spending-list-page) <br/>
+• [Spending Summary Page](#spending-summary-page) <br/>
+• [Budget Page](#budget-page) <br/>
+3. [Database Diagram](#database-diagram)
+4. [User Stories](#user-stories)
+5. [Use Cases](#use-cases)
+6. [Requirements List](#requirements-list)
+7. [UML Diagram](#uml-diagram)
 
 
 
